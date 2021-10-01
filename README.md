@@ -23,4 +23,4 @@ Happy Coding!
 
 [MIT License](LICENSE)  
 
-Copyright (c) 2020 Sayan Bhattacharyya
+Copyright (c) 2020-present Sayan Bhattacharyya
